@@ -10,6 +10,7 @@ function App(){
         <header className="App-header">
           <img src={logo} className="App-logo" alt="logo"/>
           <h1>Hello World!</h1>
+            <h6>Second commit</h6>
         </header>
       </div>
   )
